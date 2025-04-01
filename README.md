@@ -4,6 +4,7 @@
 <br>
 <p>
 Here you can see some of the projects I've developed. For the backend and database, I'm only sharing examples for security and confidentiality reasons (I won't share live code samples, neither yours nor mine).
+<br>
 Please check out the projects and contact me if you're interested in working together.
 
 Regards,
